@@ -14,8 +14,6 @@ It’s basic for now, but more features will be added in the future! 🚀
 ---
 
 ## 🛠️ **Usage**
-
-```bash
 python media_report.py [--color-scheme=<scheme>] <library_path1> [<library_path2> ...]
 
 # color schemes
