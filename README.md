@@ -1,9 +1,21 @@
-# media-report
+# 🎥 **media-report** 📊
 
-# description
-This is a python-based simple report, that you provide paths to parts of your media library, and it will generate a basic report of nfo files, subtitles, and images. It is very basic at first, more will be checked in the future.
+## 📝 **Description**
 
-# usage
+This is a simple Python-based report tool designed to help you manage and analyze your media library! 📂  
+Just provide paths to different parts of your library, and it will generate a basic report of:
+
+- 📄 **.nfo files**
+- 🎬 **Subtitles**
+- 🖼️ **Images**
+
+It’s basic for now, but more features will be added in the future! 🚀
+
+---
+
+## 🛠️ **Usage**
+
+```bash
 python media_report.py [--color-scheme=<scheme>] <library_path1> [<library_path2> ...]
 
 # color schemes
